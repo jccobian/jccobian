@@ -46,7 +46,7 @@ That includes enterprise applications, ERP-related integrations, automation work
 
 ## Contact
 
-- **Email:** jccobian@gmail.com
+- **Email:** jccobian@cobianpc.com
 - **LinkedIn:** https://www.linkedin.com/in/juan-carlos-cobi%C3%A1n-murillo-64bb13117/
 - **Website:** https://cobianpc.com
 - **Location:** Los Cabos, Mexico · Open to remote work
